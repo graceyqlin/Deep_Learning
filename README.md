@@ -1,0 +1,1 @@
+This repo contains python notebooks for neural networks and deep learning exercises.
